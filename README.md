@@ -222,7 +222,7 @@ A live video of demonastrative of this project.
 
 
 
-![asj](https://github.com/Rakib4442/Hotel-Management-System/tree/main/Videos)
+![asj](https://github.com/Rakib4442/Hotel-Management-System/blob/main/Videos/video1711707861.mp4)
 
 
 
